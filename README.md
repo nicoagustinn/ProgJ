@@ -1,2 +1,2 @@
-# CChalls
- Archive of various C projects
+# ProgJ
+ Archive of various programming projects and challenges.
